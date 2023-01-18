@@ -5,6 +5,7 @@ Script Made By AltLexon
 For launch u have execute: 
 
 ```lua
-local path = rbxmSuite.download("AltLexon/TAS@v1.0.0", "Build A Boat For Treasure.rbxm")
+local rbxmSuite = loadstring(game:HttpGetAsync("https://github.com/richie0866/rbxm-suite/releases/latest/download/rbxm-suite.lua"))()
+local path = rbxmSuite.download("https://github.com/AltLexon/build-a-boat/releases/tag/%23AutoFarm", "BuildABoatForTreasure.rbxm")
 local model = rbxmSuite.launch(path)
 ```
