@@ -1,6 +1,0 @@
-.gitignore
-aftman.toml
-default.project.json
-sourcemap.json
-run.lua
-src
