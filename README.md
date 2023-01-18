@@ -1,4 +1,4 @@
-# Build A Boat For Treasure Script
+# Build A Boat For Treasure Script ( not works)
 
 Script Made By AltLexon
 
