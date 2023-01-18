@@ -2,6 +2,4 @@
 
 Script Made By AltLexon
 
-#cpp
-wd
-#+++
+`hey`
