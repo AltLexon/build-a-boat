@@ -2,6 +2,6 @@
 
 Script Made By AltLexon
 
-###
-Hello
-###
+#cpp
+wd
+#+++
