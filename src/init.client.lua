@@ -1,1 +1,1 @@
-require(script.AutoFarm)()
+require(script.AutoFarm)(getgenv().ammount)

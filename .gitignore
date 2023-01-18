@@ -1,6 +1,6 @@
 .gitignore
 aftman.toml
-Build A Boat For Treasure
 default.project.json
 sourcemap.json
 run.lua
+src
