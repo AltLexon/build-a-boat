@@ -2,7 +2,7 @@
 
 Script Made By AltLexon
 
-For launch u have execute: 
+For launch you have to execute: 
 
 ```lua
 local rbxmSuite = loadstring(game:HttpGetAsync("https://github.com/richie0866/rbxm-suite/releases/latest/download/rbxm-suite.lua"))()
